@@ -26,7 +26,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/text-to-sql-llm-app.git
+        <pre><code>git clone https://github.com/yourusername/Text-to-sql-llm-app.git
 cd text-to-sql-llm-app</code></pre>
     </li>
     <li>Create a virtual environment:
